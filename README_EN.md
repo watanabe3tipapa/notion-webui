@@ -93,6 +93,3 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
 MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-GitHub: [https://github.com/watanabe3tipapa/notion-webui](https://github.com/watanabe3tipapa/notion-webui)

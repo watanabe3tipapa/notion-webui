@@ -98,6 +98,3 @@ npm run dev -w server
 
 MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
-## 連絡先
-
-GitHub: [https://github.com/watanabe3tipapa/notion-webui](https://github.com/watanabe3tipapa/notion-webui)
