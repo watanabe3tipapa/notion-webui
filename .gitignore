@@ -1,0 +1,11 @@
+node_modules/
+dist/
+server/dist/
+server/static/
+*.db
+data/
+.env
+*.log
+*.tsbuildinfo
+.DS_Store
+docs/.vitepress/dist/

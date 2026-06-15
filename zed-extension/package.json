@@ -1,0 +1,13 @@
+{
+  "name": "@notion-webui/zed-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
